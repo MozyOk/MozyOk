@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - I'm Mozy Okubo from Japan Tokyo and India.  
-- 🔭 I’m currently working on [INDIGITAL](https://indigital.co.jp/en/) CTO etc...
+- 🔭 I’m currently working on CTO etc...
 - 📫 How to reach me: twitter @ok_mozy
 - 💬 Ask me about anything [here](https://github.com/MozyOk/MozyOk/issues)
 
